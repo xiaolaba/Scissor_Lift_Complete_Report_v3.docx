@@ -12,9 +12,9 @@
 
 
 ### configure
-[1.JPG](1.JPG) 
-[2.JPG](2.JPG) 
-[3.JPG](3.JPG)
+![1.JPG](1.JPG) 
+![2.JPG](2.JPG) 
+![3.JPG](3.JPG)
 
 ### python code for plot
 ```
