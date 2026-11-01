@@ -1,13 +1,22 @@
 # Scissor_Lift_Complete_Report_v3.docx
 剪刀式升降台, X-Y-Z 解析度, 靠AI 輔助完成
 
+### plot, fast reading
+![scissor_lift_XY_chart.png](scissor_lift_XY_chart.png)  
+![scissor_lift_chart_v2.png](scissor_lift_chart_v2.png)  
+
+
+
+### compelte report
 [Scissor_Lift_Complete_Report_v3.docx.pdf](Scissor_Lift_Complete_Report_v3.docx.pdf)  
 
+
+### configure
 [1.JPG](1.JPG) 
 [2.JPG](2.JPG) 
 [3.JPG](3.JPG)
 
-python code for plot
+### python code for plot
 ```
 import numpy as np
 import matplotlib.pyplot as plt
